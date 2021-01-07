@@ -43,7 +43,7 @@ export const About = () => {
                 <Typography variant="body1">
                     WE PROVIDE THE BEST TOURS
                 </Typography><br/>
-                <Button variant="contained" color="primary">
+                <Button variant="contained" style={{backgroundColor:"rgba(158,34,195,0.7)",color:"white"}}>
                     Let's go
                 </Button>
                </Paper>
