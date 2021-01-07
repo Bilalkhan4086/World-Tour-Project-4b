@@ -1,0 +1,16 @@
+.Total1 {
+    width: 600px;
+    height: auto;
+}
+@media screen and (max-width: 720px ){
+    .Total1 {
+        width: 500px;
+        height: auto;
+    }
+}
+@media screen and (max-width: 400px) {
+    .Total1 {
+        width: 400px;
+        height: auto;
+    }
+}
