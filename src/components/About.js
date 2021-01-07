@@ -43,7 +43,7 @@ export const About = () => {
                 <Typography variant="body1">
                     WE PROVIDE THE BEST TOURS
                 </Typography><br/>
-                <Button variant="outlined">
+                <Button variant="contained" color="primary">
                     Let's go
                 </Button>
                </Paper>

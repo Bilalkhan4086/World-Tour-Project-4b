@@ -38,7 +38,7 @@ export const Home = () => {
                 <Typography variant="body1">
                  WE PROVIDE THE BEST TOURS
                 </Typography><br/>
-                <Button variant="outlined">
+                <Button variant="contained" color='secondary'>
                  Learn More
                 </Button>
                </Paper>
